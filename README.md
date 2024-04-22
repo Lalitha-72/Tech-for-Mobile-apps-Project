@@ -26,6 +26,15 @@ The College Skill Swap App is a dynamic React Native mobile application tailored
 
 -> Post Management: The capability to add, edit, or remove your posts, giving you full control over the content you share.
 
+![SignUpPage](Screenshots(AppPages)/SignUpPage.jpeg)
+![LoginPage](Screenshots(AppPages)/LoginPage.jpeg)
+![HomeScreenPage](Screenshots(AppPages)/HomeScreenPage.jpeg)
+![ChatScreenPage](Screenshots(AppPages)/ChatScreenPage.jpeg)
+![AchievementsPostPage](Screenshots(AppPages)/AchievementsPostPage.jpeg)
+![SearchScreenPage](Screenshots(AppPages)/SearchScreenPage.jpeg)
+![SignOutPage](Screenshots(AppPages)/SignOutPage.jpeg)
+
+
 **Getting Started:**
 
 To run the College Skill Swap App on your local machine, follow these steps:
