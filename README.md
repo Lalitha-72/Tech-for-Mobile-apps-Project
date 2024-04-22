@@ -37,9 +37,7 @@ The College Skill Swap App is a dynamic React Native mobile application tailored
 Video Link:
 
 https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=sharing
-## Example Video
 
-[![Example Video]([(https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=sharing)=VIDEO_ID)]([https://drive.google.com/file/d/VIDEO_ID/view](https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=sharing))
 
 **Getting Started:**
 
