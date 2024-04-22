@@ -26,14 +26,6 @@ The College Skill Swap App is a dynamic React Native mobile application tailored
 
 -> Post Management: The capability to add, edit, or remove your posts, giving you full control over the content you share.
 
-![SignUpPage](Screenshots(AppPages)/SignUpPage.jpeg) 
-![LoginPage](Screenshots(AppPages)/LoginPage.jpeg)
-![HomeScreenPage](Screenshots(AppPages)/HomeScreenPage.jpeg)
-![ChatScreenPage](Screenshots(AppPages)/ChatScreenPage.jpeg)
-![AchievementsPostPage](Screenshots(AppPages)/AchievementsPostPage.jpeg)
-![SearchScreenPage](Screenshots(AppPages)/SearchScreenPage.jpeg)
-![SignOutPage](Screenshots(AppPages)/SignOutPage.jpeg)
-
 Team Presentation Link:
 ```bash
 https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=sharing
@@ -62,3 +54,13 @@ expo start
 Scan the QR code with your mobile device using the Expo Go app to see the app in action.
 
 Join the College Skill Swap community today and empower your learning journey through collaborative education and skill sharing!
+
+
+![SignUpPage](Screenshots(AppPages)/SignUpPage.jpeg) 
+![LoginPage](Screenshots(AppPages)/LoginPage.jpeg)
+![HomeScreenPage](Screenshots(AppPages)/HomeScreenPage.jpeg)
+![ChatScreenPage](Screenshots(AppPages)/ChatScreenPage.jpeg)
+![AchievementsPostPage](Screenshots(AppPages)/AchievementsPostPage.jpeg)
+![SearchScreenPage](Screenshots(AppPages)/SearchScreenPage.jpeg)
+![SignOutPage](Screenshots(AppPages)/SignOutPage.jpeg)
+
