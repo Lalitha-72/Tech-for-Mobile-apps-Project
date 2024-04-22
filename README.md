@@ -1,25 +1,25 @@
 College Skill Swap App
 
-Introduction:
+**Introduction:**
 
 The College Skill Swap App is a dynamic React Native mobile application tailored specifically for college students to exchange skills and foster collaborative learning environments. This platform allows users to connect, interact, and grow together by offering and seeking skills within their student community. Whether you're looking to improve your coding skills, learn a new language, or get creative with design, this app brings all these opportunities to your fingertips.
 
-Features:
+**Features:**
 
-Secure Authentication:
-Login/Signup: Start by creating an account or logging in through a secure authentication process to join the skill exchange network.
+-> Secure Authentication:
+-> Login/Signup: Start by creating an account or logging in through a secure authentication process to join the skill exchange network.
 
-User Interactions:
-Home Feed: A personalized feed featuring posts from other students, showcasing their skills, projects, and requests for skill exchange.
-Skill Posting: A user-friendly interface to post your skills or achievements, and engage with peers through likes and comments.
-Chat System: An integrated chat functionality to discuss potential skill swaps, projects, or simply network with peers.
-Profile Management: A profile page to showcase your skills, manage posts, and track your interactions within the community.
+**User Interactions:**
+-> Home Feed: A personalized feed featuring posts from other students, showcasing their skills, projects, and requests for skill exchange.
+-> Skill Posting: A user-friendly interface to post your skills or achievements, and engage with peers through likes and comments.
+-> Chat System: An integrated chat functionality to discuss potential skill swaps, projects, or simply network with peers.
+-> Profile Management: A profile page to showcase your skills, manage posts, and track your interactions within the community.
 
-Skill Discovery and Management:
-Skill Search: An advanced search functionality to find students by their skills or interests, making it easier to find the right match for your learning goals.
-Post Management: The capability to add, edit, or remove your posts, giving you full control over the content you share.
+**Skill Discovery and Management:**
+-> Skill Search: An advanced search functionality to find students by their skills or interests, making it easier to find the right match for your learning goals.
+-> Post Management: The capability to add, edit, or remove your posts, giving you full control over the content you share.
 
-Getting Started:
+**Getting Started:**
 
 To run the College Skill Swap App on your local machine, follow these steps:
 
