@@ -34,22 +34,30 @@ The College Skill Swap App is a dynamic React Native mobile application tailored
 ![SearchScreenPage](Screenshots(AppPages)/SearchScreenPage.jpeg)
 ![SignOutPage](Screenshots(AppPages)/SignOutPage.jpeg)
 
-Video Link:
-
+Team Presentation Link:
+```bash
 https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=sharing
-
+```
 
 **Getting Started:**
 
 To run the College Skill Swap App on your local machine, follow these steps:
-
+```bash
 git clone https://github.com/Lalitha-72/Tech-for-Mobile-apps-Project.git
+```
 
+```bash
 cd Tech-for-Mobile-apps-Project
+```
 
+```bash
 npm install
+```
 
+```bash
 expo start
+```
+
 
 Scan the QR code with your mobile device using the Expo Go app to see the app in action.
 
