@@ -43,9 +43,12 @@ https://drive.google.com/file/d/181FHOhx3W3NwBpJ0GSiTPfdo6G6A9fd_/view?usp=shari
 
 To run the College Skill Swap App on your local machine, follow these steps:
 
-git clone https://github.com/your-username/college-skill-swap-app.git
-cd college-skill-swap-app
+git clone https://github.com/Lalitha-72/Tech-for-Mobile-apps-Project.git
+
+cd Tech-for-Mobile-apps-Project
+
 npm install
+
 expo start
 
 Scan the QR code with your mobile device using the Expo Go app to see the app in action.
